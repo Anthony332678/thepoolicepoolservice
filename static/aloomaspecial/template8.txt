@@ -1,0 +1,41 @@
+    <br><br><br><br>
+    <!-- contact template 8 just 1 subtopic -->
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma">aloomaidheader</h2>
+                <p class="template4 palooma">aloomaidparagraph
+                </p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions in #State</h2>
+                <h4 class="template4 palooma">How often should I clean my pool?
+                </h4>
+                <p>Regular maintenance is recommended weekly or biweekly to ensure clean water, balanced chemicals, and functional equipment.</p>
+                <h4 class="template4 palooma">What if my pool turns green?
+                </h4>
+                <p>A green pool results from algae growth. Our green pool restoration service restores clarity within a few days using professional treatments.</p>
+                <h4 class="template4 palooma">Are your chemicals safe?
+                </h4>
+                <p>Yes, we use eco-friendly and non-toxic chemicals that ensure water safety while protecting swimmers and the environment.</p>
+                <h4 class="template4 palooma">Do you provide free estimates?
+                </h4>
+                <p>Absolutely! Call us today for a no-obligation estimate tailored to your pool’s needs.</p>
+                <h4 class="template4 palooma">Do you offer emergency repairs?
+                </h4>
+                <p>Yes, we provide same-day emergency services for urgent issues like leaks, pump failures, and broken filters.</p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>

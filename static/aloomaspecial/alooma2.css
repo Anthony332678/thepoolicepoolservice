@@ -1,0 +1,7 @@
+﻿body {
+    background: url('../images/jack-price-burns-YVNlVJ8F_Ok-unsplash.jpg') no-repeat center center; /* Centered for better positioning */
+    background-color: #d0ccc8;
+    background-size: cover; /* Ensures the image covers the full viewport */
+    background-attachment: fixed; /* Creates a parallax effect */
+    background-blend-mode: overlay; /* Softens the image for better contrast */
+}
